@@ -16,4 +16,9 @@ Visível em https://www.alura.com.br/formacao-machine-learning-avancada e agrupa
 • Funções de inicialização para o kernel e bias e o intuito por trás das padrões do Keras;<br/>
 • Hiperparâmetros e configurações para os modelos como a própria taxa de aprendizado do otimizador (usando o Adam), método early stopping, divisão em batches e callbacks para o método fit.
 
+## (3) Deep Learning: Previsão com Keras
 
+• Forma de utilizar deep learning para previsões em séries temporais;<br/>
+• Tratamento para transformação das saídas em entradas no modelo para séries temporais;<br/>
+• Trabalhando com regressões lineares e não-lineares dentro do Keras;<br/>
+• Outras classes de redes neurais: LSTM (long short-term memory) e GRU (gated recurrent unit).
